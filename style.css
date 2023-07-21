@@ -1,0 +1,49 @@
+marquee{
+    color: white;
+    background-color: orange;
+    margin: 0%;
+}
+
+
+h1{
+    margin-top: -150px;
+    margin-left: 220px;
+}
+
+p {
+    font-size: 20px;
+}
+hr{
+    margin-top: 75px;
+}
+
+    #jit {
+        text-align: center;
+    }
+
+    #courses {
+        text-align: center;
+    }
+
+    #about {
+        text-align: center;
+    }
+
+    li {
+        display: inline;
+        display: inline-block;
+    }
+    ul{margin-left: 125px;margin-top: 40px;text-align:center;}
+
+    #man {
+        text-align: center;
+    }
+
+    
+
+    .map {
+        margin-right: -300px;
+        align-items: left;
+    }
+
+
